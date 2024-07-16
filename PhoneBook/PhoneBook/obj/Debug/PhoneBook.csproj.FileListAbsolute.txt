@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Új mappa\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\User\Desktop\Új mappa\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\User\Desktop\Új mappa\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\User\Desktop\Új mappa\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Új mappa\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Új mappa\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\User\Desktop\Új mappa\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
