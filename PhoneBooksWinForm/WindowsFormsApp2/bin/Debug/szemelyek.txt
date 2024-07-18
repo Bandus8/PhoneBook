@@ -1,0 +1,10 @@
+Nagy István;Budapest, Nagy utca 5.;Nagy Péter;Nagy Éva;201234567;Férfi;istvan.nagy@example.com;12345678
+Kis Anna;Debrecen, Kossuth utca 10.;Kis János;Kis Mária;309876543;Nő;anna.kis@example.com;87654321
+Szabó Béla;Szeged, Szabó utca 3.;Szabó László;Szabó Klára;203456789;Férfi;bela.szabo@example.com;23456789
+Tóth Ágnes;Pécs, Tóth utca 2.;Tóth András;Tóth Katalin;205678912;Nő;agnes.toth@example.com;34567891
+Varga Sándor;Győr, Varga utca 8.;Varga Mihály;Varga Ilona;207891234;Férfi;sandor.varga@example.com;45678912
+Kovács Éva;Miskolc, Kovács utca 7.;Kovács Tibor;Kovács Erzsébet;301239876;Nő;eva.kovacs@example.com;56789123
+Horváth László;Székesfehérvár, Horváth utca 6.;Horváth Attila;Horváth Julianna;204567891;Férfi;laszlo.horvath@example.com;67891234
+Németh Gábor;Kecskemét, Németh utca 4.;Németh Zoltán;Németh Gabriella;307654321;Férfi;gabor.nemeth@example.com;78912345
+Balogh Zsuzsanna;Eger, Balogh utca 9.;Balogh Ferenc;Balogh Tímea;204321987;Nő;zsuzsanna.balogh@example.com;89123456
+Farkas Tamás;Nyíregyháza, Farkas utca 1.;Farkas Béla;Farkas Irén;205432198;Férfi;tamas.farkas@example.com;91234567
